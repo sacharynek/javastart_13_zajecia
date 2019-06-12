@@ -1,0 +1,3 @@
+Samochod;VW;100000.0
+Długopis;Pentel;10.0
+Laptop;Lenovo;18000.0
